@@ -44,4 +44,13 @@ Beneficios:
 - Corregir errores o información desactualizada en las descripciones de las tareas.
 - Adaptar la descripción de la tarea si hay cambios en los requisitos o detalles.
 
+### 4. Filtrar tareas por estado y ver tareas por ID
+
+Los usuarios pueden filtrar las tareas según su estado (completas o incompletas) para ver rápidamente qué tareas requieren atención. Además, también tienen la opción de ver una tarea específica mediante la identificación única de tarea (ID). Esto les permite acceder directamente a la información detallada de una tarea en particular.
+
+Beneficios:
+
+- Enfocarse en tareas específicas según su estado.
+- Acceder rápidamente a los detalles de una tarea individual a través de su ID.
+
 En resumen, la Lista de Tareas es una aplicación que ofrece a los usuarios una forma sencilla y eficiente de administrar sus tareas diarias. Con funcionalidades como añadir, eliminar, editar y completar tareas, ayuda a los usuarios a mantenerse organizados, ser más productivos y lograr sus objetivos de manera efectiva, sin importar si son estudiantes, profesionales o cualquier persona que busque una forma fácil de gestionar sus tareas.
